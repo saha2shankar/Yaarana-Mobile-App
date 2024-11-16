@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/aref_ruqaa</item>
+        <item>@font/croissant_one</item>
+        <item>@font/cutive</item>
+        <item>@font/frijole</item>
+        <item>@font/glass_antiqua</item>
+        <item>@font/krona_one</item>
+        <item>@font/montserrat_alternates_bold</item>
+        <item>@font/roboto_light</item>
+    </array>
+</resources>

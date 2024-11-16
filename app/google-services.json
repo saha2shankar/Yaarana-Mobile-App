@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "286530899486",
+    "project_id": "yaarana-fa440",
+    "storage_bucket": "yaarana-fa440.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286530899486:android:661dd3a9b8da60bd15e80f",
+        "android_client_info": {
+          "package_name": "com.yaarana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmue6o1rJar3iu8YTe2X4fkCgwsAYr61Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
